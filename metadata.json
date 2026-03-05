@@ -1,0 +1,5 @@
+{
+  "name": "小学几何互动学习助手",
+  "description": "基于北师大版小学数学大纲设计的互动式几何教学软件，支持平面几何拉伸、割补及 3D 空间观察。",
+  "requestFramePermissions": []
+}
